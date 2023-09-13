@@ -1,0 +1,7 @@
+All user actions are logged for auditing purposes
+
+"The user must be able to securely log in and access their account."
+
+Data integrity checks ensure that files haven't been tampered with
+
+Protecting user data is crucial.
